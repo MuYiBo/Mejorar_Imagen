@@ -16,10 +16,10 @@ After uploading an image, it enlarges the resolution while enhancing the clarity
 
 ## Website Screenshots
 ### Homepage
-![hero-zh](https://github.com/user-attachments/assets/642ec577-01f2-417c-b148-2c46d9c77c60)
+![hero-en-mini](https://github.com/user-attachments/assets/c05c400b-4ccc-4c1a-8f28-c062cdf4d746)
 
 ### Tool
-![tool-zh](https://github.com/user-attachments/assets/d486b9fb-82e4-4cf6-9c41-ad9bdf03b0db)
+![tool-en-mini](https://github.com/user-attachments/assets/709106df-e096-4b1d-854e-d78c60e32b9b)
 
 ### Enhancement Complete, Ready for Further Operations
-![success-zh](https://github.com/user-attachments/assets/6cd99648-9044-4bae-b17f-8a520a177e94)
+![success-en-mini](https://github.com/user-attachments/assets/6b249b3d-f328-4ccd-99f3-98a6267b81e4)
