@@ -16,10 +16,11 @@ Después de subir una imagen, se aumenta su resolución y se mejora su nitidez, 
 
 ## Capturas de Pantalla del Sitio Web
 ### Página Principal
-![hero-zh](https://github.com/user-attachments/assets/642ec577-01f2-417c-b148-2c46d9c77c60)
+![hero-en](https://github.com/user-attachments/assets/54f51993-bccb-4a95-9205-fabd2bff0ef5)
 
 ### Herramienta
-![tool-zh](https://github.com/user-attachments/assets/d486b9fb-82e4-4cf6-9c41-ad9bdf03b0db)
+![tool-en](https://github.com/user-attachments/assets/a64ba3ff-ea91-4e68-9931-f8935271df6e)
 
 ### Mejora Completa, con Posibilidad de Segunda Operación
-![success-zh](https://github.com/user-attachments/assets/6cd99648-9044-4bae-b17f-8a520a177e94)
+![success-en](https://github.com/user-attachments/assets/7386e6c0-87f4-416e-99ff-9b64bacba904)
+
