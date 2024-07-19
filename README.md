@@ -1,26 +1,25 @@
 # Mejorar Imagen
-Mejorar Imagen 是一款AI图片增强器，借助AI，它在几秒钟内将图片放大至10倍或12K分辨率，提高图片质量，使您的图片更加清晰和逼真。
+Mejorar Imagen es una herramienta de mejora de imágenes impulsada por IA que amplía las imágenes hasta 10 veces o a una resolución de 12K en cuestión de segundos, mejorando la calidad de las imágenes para hacerlas más claras y realistas.
 
 👉 [Mejorar Imagen](https://mejorarimagen.org/)
 
-English | [简体中文](https://github.com/MuYiBo/Mejorar_Imagen/blob/main/README.zh-CN.md) | [Español](https://github.com/MuYiBo/Mejorar_Imagen/blob/main/README.es-ES.md)
+Español | [简体中文](https://github.com/MuYiBo/Mejorar_Imagen/blob/main/README.zh-CN.md) | [English](https://github.com/MuYiBo/Mejorar_Imagen/blob/main/README.en-US.md)
 
-## 功能
-上传图片后，将图片的分辨率放大，同时提升图片的清晰度，最大可放大 **10 倍**。比如一个 500x500的图片，在某些场景使用时分辨率太小可能显示会模糊，通过放大 10 倍后，到 5000x5000像素，相同场景下图片会清晰很多。在设计师、摄影、自媒体等场景都可以使用。
+## Funcionalidades
+Después de subir una imagen, se aumenta su resolución y se mejora su nitidez, pudiendo ampliarla hasta **10 veces**. Por ejemplo, una imagen de 500x500 puede parecer borrosa en algunos contextos debido a su baja resolución, pero al ampliarla 10 veces, hasta 5000x5000 píxeles, la imagen se verá mucho más clara en los mismos contextos. Es útil para diseñadores, fotógrafos, creadores de contenido y otros.
 
-## 特色
-- 相对于大部分工具只能将图片放大 2、4 倍，我们可以将图片放大 **10 倍**；
-- 相对于大部分工具分辨率最大放大到 4k ，我们可以最大放大到 **12k**；
-- 通过AI，将图片分辨率放大的同时，可以明显的提高图片的清晰度；
-- 针对人脸可以特殊的进行局部增强、修复；
+## Características
+- A diferencia de la mayoría de las herramientas que solo pueden ampliar imágenes 2 o 4 veces, nosotros podemos ampliarlas **10 veces**.
+- Mientras que la mayoría de las herramientas pueden ampliar la resolución máxima a 4K, nosotros podemos ampliarla hasta **12K**.
+- Gracias a la IA, al aumentar la resolución de la imagen, también mejoramos significativamente su nitidez.
+- Para los rostros, ofrecemos mejoras y reparaciones específicas.
 
-## 网站截图
-### 首页
+## Capturas de Pantalla del Sitio Web
+### Página Principal
 ![hero-zh](https://github.com/user-attachments/assets/642ec577-01f2-417c-b148-2c46d9c77c60)
 
-### 工具
+### Herramienta
 ![tool-zh](https://github.com/user-attachments/assets/d486b9fb-82e4-4cf6-9c41-ad9bdf03b0db)
 
-### 增强完成，可二次操作
+### Mejora Completa, con Posibilidad de Segunda Operación
 ![success-zh](https://github.com/user-attachments/assets/6cd99648-9044-4bae-b17f-8a520a177e94)
-
